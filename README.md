@@ -18,6 +18,8 @@
 
 8. [How to win coding competitions - edX](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx-1)
 
+9. [E-Maxx](http://e-maxx-eng.appspot.com/)A tutorial website widely used and referenced in the Russian-speaking competitive programming community. 
+
 
 ### Notes for competitive programming
 

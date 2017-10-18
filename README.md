@@ -16,8 +16,7 @@
 
 7. [The Art of Programming Contest](http://www.ahmedshamsularefin.id.au/acm-icpc/tutorials/30-my-articles) is a book (pdf [here](http://www.comp.nus.edu.sg/~stevenha/database/Art_of_Programming_Contest_SE_for_uva.pdf)) written by [Ahmed Shamsul Arefin](http://www.newcastle.edu.au/profile/ahmed-arefin).
 
-8. https://www.coursera.org/specializations/data-structures-algorithms This specialization is a mix of theory and practice: you will learn algorithmic techniques for solving various computational problems and will implement about 100 algorithmic coding problems in a programming language of your choice. 
-
+8. [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) created by UC San Diego
 
 ### Notes for competitive programming
 

@@ -20,6 +20,7 @@
 
 9. [E-Maxx](http://e-maxx-eng.appspot.com/)A tutorial website widely used and referenced in the Russian-speaking competitive programming community. 
 
+10. [Competitive programming in C++](http://m.el-dosuky.com/course.php?c=competitive-programming-2015) This course covers Competitive Programming in C++ and prepare students for programming contests such as ACM-ICPC . It covers many topics such as data structures, algorithms, and discrete mathematics.  
 
 ### Notes for competitive programming
 

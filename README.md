@@ -18,6 +18,14 @@
 
 8. [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) created by UC San Diego
 
+8. [How to win coding competitions - edX](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx-1)
+
+9. [E-Maxx](http://e-maxx-eng.appspot.com/) A tutorial website widely used and referenced in the Russian-speaking competitive programming community. 
+
+10. [Competitive programming in C++](http://m.el-dosuky.com/course.php?c=competitive-programming-2015) This course covers Competitive Programming in C++ and prepare students for programming contests such as ACM-ICPC . It covers many topics such as data structures, algorithms, and discrete mathematics.  
+
+10. [Competitive Programming, CommonLounge](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca/main?r=acp) - Video tutorials for beginners and intermediate level. Advanced tutorials selected from the best ones available on various CP blogs.
+
 ### Notes for competitive programming
 
 1. [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) on Topcoder.

@@ -26,6 +26,8 @@
 
 10. [Competitive Programming, CommonLounge](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca/main?r=acp) - Video tutorials for beginners and intermediate level. Advanced tutorials selected from the best ones available on various CP blogs.
 
+11. [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) - course taught by ICPC finalist.
+
 ### Notes for competitive programming
 
 1. [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) on Topcoder.
@@ -37,6 +39,12 @@
 4. [Alex’s Anthology of Algorithms: Common Code for Contests in Concise C++](https://github.com/Alextrovert/Algorithms-Anthology) written by Alex Li.
 
 5. [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf) is a pdf document that contains several implementations of algorithms in C++.
+
+6. [Algorithms - Geeksforgeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) has exhaustive list of codes for all algorithms.
+
+### Additional resource repos from GitHub
+
+1. [https://github.com/AlexandruValeanu/Competitive-Programming](https://github.com/AlexandruValeanu/Competitive-Programming) - contains solutions for various problems from HackerRank, Codechef, Topcoder, SPOJ etc.
 
 ### Youtube playlists
 

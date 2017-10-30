@@ -42,8 +42,10 @@
 
 6. [Algorithms - Geeksforgeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) has exhaustive list of codes for all algorithms.
 
-
 ### Additional resource repos from GitHub
 
 1. [https://github.com/AlexandruValeanu/Competitive-Programming](https://github.com/AlexandruValeanu/Competitive-Programming) - contains solutions for various problems from HackerRank, Codechef, Topcoder, SPOJ etc.
 
+### Youtube playlists
+
+1. gkcs(https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)

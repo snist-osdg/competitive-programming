@@ -26,6 +26,8 @@
 
 10. [Competitive Programming, CommonLounge](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca/main?r=acp) - Video tutorials for beginners and intermediate level. Advanced tutorials selected from the best ones available on various CP blogs.
 
+11. [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) - course taught by ICPC finalist.
+
 ### Notes for competitive programming
 
 1. [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) on Topcoder.

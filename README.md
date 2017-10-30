@@ -37,3 +37,7 @@
 4. [Alex’s Anthology of Algorithms: Common Code for Contests in Concise C++](https://github.com/Alextrovert/Algorithms-Anthology) written by Alex Li.
 
 5. [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf) is a pdf document that contains several implementations of algorithms in C++.
+
+### Youtube playlists
+
+1. gkcs(https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)

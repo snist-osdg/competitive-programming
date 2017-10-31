@@ -49,3 +49,4 @@
 ### Youtube playlists
 
 1. gkcs(https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+2. HackerEarth(https://www.youtube.com/playlist?list=PLOoXj-_3QvUajbiBU6xuSb838VzkA_qQ_)

@@ -46,6 +46,15 @@
 
 1. [https://github.com/AlexandruValeanu/Competitive-Programming](https://github.com/AlexandruValeanu/Competitive-Programming) - contains solutions for various problems from HackerRank, Codechef, Topcoder, SPOJ etc.
 
+### Sites for competitive programming
+
+1. [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+2. [Codeforces](http://codeforces.com)
+3. [Hackerrank](https://www.hackerrank.com)
+4. [Hackerearth](https://www.hackerearth.com/pt-br/)
+5. [Topcoder](https://www.topcoder.com/community/competitive-programming/)
+6. [Codechef](https://www.codechef.com/)
+
 ### Youtube playlists
 
 1. gkcs(https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)

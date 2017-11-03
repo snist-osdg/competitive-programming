@@ -28,6 +28,10 @@
 
 11. [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) - course taught by ICPC finalist.
 
+12. [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - Mit Opencourseware, Course taught by Prof. Erik Demaine and Prof. Srinivas Devadas
+
+13. [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/) - Mit Opencouseware, Cource taught by Prof. Michel Goemans
+
 ### Notes for competitive programming
 
 1. [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) on Topcoder.
@@ -46,9 +50,19 @@
 
 1. [https://github.com/AlexandruValeanu/Competitive-Programming](https://github.com/AlexandruValeanu/Competitive-Programming) - contains solutions for various problems from HackerRank, Codechef, Topcoder, SPOJ etc.
 
+### Sites for competitive programming
+
+1. [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+2. [Codeforces](http://codeforces.com)
+3. [Hackerrank](https://www.hackerrank.com)
+4. [Hackerearth](https://www.hackerearth.com/pt-br/)
+5. [Topcoder](https://www.topcoder.com/community/competitive-programming/)
+6. [Codechef](https://www.codechef.com/)
+
 ### Youtube playlists
 
-1. gkcs(https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-2. Tousif Zaman (https://www.youtube.com/watch?v=b6QhQSnKNSc&list=PLOoXj-_3QvUajbiBU6xuSb838VzkA_qQ_)
-3. Math (https://www.youtube.com/watch?v=Syx2qDjj7TE&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ)
-4. Graphs (https://www.youtube.com/watch?v=yRtCYFPBy8Q&list=PLRKxhQQOfTrmiyT5vOzEqZOcU6EAHEixP)
+1. [gkcs] (https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+2. [competitive programming] (https://www.youtube.com/watch?v=b6QhQSnKNSc&list=PLOoXj-_3QvUajbiBU6xuSb838VzkA_qQ_)
+3. [Math](https://www.youtube.com/watch?v=Syx2qDjj7TE&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ)
+4. [Graphs](https://www.youtube.com/watch?v=yRtCYFPBy8Q&list=PLRKxhQQOfTrmiyT5vOzEqZOcU6EAHEixP)
+5. [ACPC Training (Beginner)](https://www.youtube.com/watch?v=g-ug9-imstk&list=PLr7bO3PQtaB98icc2r80iN4Eb4hLNVdUF)

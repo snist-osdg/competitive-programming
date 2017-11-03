@@ -66,3 +66,4 @@
 3. [Math](https://www.youtube.com/watch?v=Syx2qDjj7TE&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ)
 4. [Graphs](https://www.youtube.com/watch?v=yRtCYFPBy8Q&list=PLRKxhQQOfTrmiyT5vOzEqZOcU6EAHEixP)
 5. [ACPC Training (Beginner)](https://www.youtube.com/watch?v=g-ug9-imstk&list=PLr7bO3PQtaB98icc2r80iN4Eb4hLNVdUF)
+6. HackerEarth(https://www.youtube.com/playlist?list=PLOoXj-_3QvUajbiBU6xuSb838VzkA_qQ_)

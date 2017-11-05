@@ -1,5 +1,5 @@
 ## Notes and courses for competitive programming
-
+![Program](https://qph.ec.quoracdn.net/main-qimg-f939681b0b47e5540398244db5c8966f?convert_to_webp=true)
 ### Courses for competitive programming
 
 1. [Algo.is](http://algo.is) is a competitive programming course taught by [Bjarki Ágúst Guðmundsson](https://github.com/SuprDewd) also known as SuprDewd (via Codeforces) and Tómas Ken Magnússon. C++ is used as programming language. The website includes an online judge. The material is available on GitHub.
@@ -61,9 +61,8 @@
 
 ### Youtube playlists
 
-1. [gkcs] (https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-2. [competitive programming] (https://www.youtube.com/watch?v=b6QhQSnKNSc&list=PLOoXj-_3QvUajbiBU6xuSb838VzkA_qQ_)
+1. [gkcs](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+2. [competitive programming](https://www.youtube.com/watch?v=b6QhQSnKNSc&list=PLOoXj-_3QvUajbiBU6xuSb838VzkA_qQ_)
 3. [Math](https://www.youtube.com/watch?v=Syx2qDjj7TE&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ)
 4. [Graphs](https://www.youtube.com/watch?v=yRtCYFPBy8Q&list=PLRKxhQQOfTrmiyT5vOzEqZOcU6EAHEixP)
 5. [ACPC Training (Beginner)](https://www.youtube.com/watch?v=g-ug9-imstk&list=PLr7bO3PQtaB98icc2r80iN4Eb4hLNVdUF)
-6. HackerEarth(https://www.youtube.com/playlist?list=PLOoXj-_3QvUajbiBU6xuSb838VzkA_qQ_)

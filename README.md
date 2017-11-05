@@ -28,6 +28,10 @@
 
 11. [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) - course taught by ICPC finalist.
 
+12. [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - Mit Opencourseware, Course taught by Prof. Erik Demaine and Prof. Srinivas Devadas
+
+13. [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/) - Mit Opencouseware, Cource taught by Prof. Michel Goemans
+
 ### Notes for competitive programming
 
 1. [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) on Topcoder.

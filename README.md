@@ -1,5 +1,4 @@
 ## Notes and courses for competitive programming
-![Program](https://qph.ec.quoracdn.net/main-qimg-f939681b0b47e5540398244db5c8966f?convert_to_webp=true)
 ### Courses for competitive programming
 
 1. [Algo.is](http://algo.is) is a competitive programming course taught by [Bjarki Ágúst Guðmundsson](https://github.com/SuprDewd) also known as SuprDewd (via Codeforces) and Tómas Ken Magnússon. C++ is used as programming language. The website includes an online judge. The material is available on GitHub.
